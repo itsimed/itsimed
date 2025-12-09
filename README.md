@@ -20,13 +20,12 @@
 
 
 
-<div align="center" style="margin: 50px 0; white-space: nowrap;">
+<div align="center" style="margin: 50px 0;">
 
-[<img src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60" alt="Portfolio" style="margin: 0 80px;"/>](https://imedbelouettar.me)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60" alt="Email" style="margin: 0 80px;"/>](mailto:ie.belouettar@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60" alt="LinkedIn" style="margin: 0 80px;"/>](https://www.linkedin.com/in/ie-belouettar/)
-
-<div style="height: 40px;"></div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; margin: 0 60px; font-weight: 600; color: #59d102; font-size: 16px;">Portfolio</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; margin: 0 60px; font-weight: 600; color: #f3f520; font-size: 16px;">Email</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; margin: 0 60px; font-weight: 600; color: #9333ea; font-size: 16px;">LinkedIn</span>
+| | | |
+|:-:|:-:|:-:|
+| [<img src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60" alt="Portfolio"/>](https://imedbelouettar.me) | [<img src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60" alt="Email"/>](mailto:ie.belouettar@gmail.com) | [<img src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60" alt="LinkedIn"/>](https://www.linkedin.com/in/ie-belouettar/) |
+| **Portfolio** | **Email** | **LinkedIn** |
 
 </div>
 
