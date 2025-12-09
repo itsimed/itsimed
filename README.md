@@ -23,13 +23,48 @@
 
 ## 📞 Contact
 
-<div align="center" style="margin: 25px 0;">
+<div align="center" style="margin: 30px 0;">
+  <p style="font-size: 16px; color: #ccc; margin-bottom: 25px;">Toujours ouvert aux opportunités & collaborations 🚀</p>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 15px; max-width: 600px; margin: 0 auto;">
+    
+    <a href="https://imedbelouettar.me" style="display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 20px; background: linear-gradient(135deg, rgba(89, 209, 2, 0.1), rgba(243, 245, 32, 0.1)); border: 1px solid #59d102; border-radius: 12px; text-decoration: none; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(89, 209, 2, 0.3)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+      <span style="font-size: 32px;">🌐</span>
+      <span style="font-weight: 600; color: #fff; font-size: 14px;">Portfolio</span>
+      <span style="font-size: 12px; color: #aaa;">Voir mes projets</span>
+    </a>
 
-| | | |
-|:-:|:-:|:-:|
-| **🌐 Portfolio**<br/>[imedbelouettar.me](https://imedbelouettar.me) | **✉️ Email**<br/>[ie.belouettar@gmail.com](mailto:ie.belouettar@gmail.com) | **💼 LinkedIn**<br/>[ie-belouettar](https://www.linkedin.com/in/ie-belouettar/) |
-| **💻 GitHub**<br/>[@itsimed](https://github.com/itsimed) | **📱 Telegram**<br/>[@itsimedd](https://t.me/itsimedd) | **📄 CV**<br/>[Voir mon profil](https://imedbelouettar.me) |
+    <a href="mailto:ie.belouettar@gmail.com" style="display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 20px; background: linear-gradient(135deg, rgba(243, 245, 32, 0.1), rgba(147, 51, 234, 0.1)); border: 1px solid #f3f520; border-radius: 12px; text-decoration: none; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(243, 245, 32, 0.3)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+      <span style="font-size: 32px;">✉️</span>
+      <span style="font-weight: 600; color: #fff; font-size: 14px;">Email</span>
+      <span style="font-size: 12px; color: #aaa;">Contactez-moi</span>
+    </a>
 
+    <a href="https://www.linkedin.com/in/ie-belouettar/" style="display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 20px; background: linear-gradient(135deg, rgba(147, 51, 234, 0.1), rgba(89, 209, 2, 0.1)); border: 1px solid #9333ea; border-radius: 12px; text-decoration: none; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(147, 51, 234, 0.3)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+      <span style="font-size: 32px;">💼</span>
+      <span style="font-weight: 600; color: #fff; font-size: 14px;">LinkedIn</span>
+      <span style="font-size: 12px; color: #aaa;">Connectez-vous</span>
+    </a>
+
+    <a href="https://github.com/itsimed" style="display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 20px; background: linear-gradient(135deg, rgba(89, 209, 2, 0.1), rgba(243, 245, 32, 0.1)); border: 1px solid #59d102; border-radius: 12px; text-decoration: none; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(89, 209, 2, 0.3)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+      <span style="font-size: 32px;">💻</span>
+      <span style="font-weight: 600; color: #fff; font-size: 14px;">GitHub</span>
+      <span style="font-size: 12px; color: #aaa;">Voir le code</span>
+    </a>
+
+    <a href="https://t.me/itsimedd" style="display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 20px; background: linear-gradient(135deg, rgba(243, 245, 32, 0.1), rgba(147, 51, 234, 0.1)); border: 1px solid #f3f520; border-radius: 12px; text-decoration: none; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(243, 245, 32, 0.3)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+      <span style="font-size: 32px;">📱</span>
+      <span style="font-weight: 600; color: #fff; font-size: 14px;">Telegram</span>
+      <span style="font-size: 12px; color: #aaa;">Échangez</span>
+    </a>
+
+    <a href="https://imedbelouettar.me" style="display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 20px; background: linear-gradient(135deg, rgba(147, 51, 234, 0.1), rgba(89, 209, 2, 0.1)); border: 1px solid #9333ea; border-radius: 12px; text-decoration: none; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(147, 51, 234, 0.3)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+      <span style="font-size: 32px;">📄</span>
+      <span style="font-weight: 600; color: #fff; font-size: 14px;">CV</span>
+      <span style="font-size: 12px; color: #aaa;">Mon profil</span>
+    </a>
+
+  </div>
 </div>
 
 ---
