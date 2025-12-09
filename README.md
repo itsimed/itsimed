@@ -22,14 +22,17 @@
 
 <div align="center" style="margin: 50px 0;">
 
-<div style="display: inline-block; border-collapse: collapse;">
+[<img src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60" alt="Portfolio"/>](https://imedbelouettar.me)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60" alt="Email"/>](mailto:ie.belouettar@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60" alt="LinkedIn"/>](https://www.linkedin.com/in/ie-belouettar/)
 
-| | | |
-|:-:|:-:|:-:|
-| [<img src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60" alt="Portfolio"/>](https://imedbelouettar.me) | [<img src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60" alt="Email"/>](mailto:ie.belouettar@gmail.com) | [<img src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60" alt="LinkedIn"/>](https://www.linkedin.com/in/ie-belouettar/) |
-| **Portfolio** | **Email** | **LinkedIn** |
+<br/><br/>
 
-</div>
+<span style="margin: 0 40px;">**Portfolio**</span>
+<span style="margin: 0 40px;">**Email**</span>
+<span style="margin: 0 40px;">**LinkedIn**</span>
 
 </div>
 
