@@ -9,51 +9,29 @@
 
   <h2>🚀 Front-End Developer | 🎨 UX/UI Designer | ♿ Accessibility-first</h2>
   
-  <!-- Typing SVG avec effet fluide -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Interfaces+modernes%2C+accessibles+%26+inclusives.;WCAG%2C+ARIA%2C+Design+Systems%2C+UX+recherch%C3%A9e.;React%2C+Next.js%2C+TypeScript%2C+Tailwind%2C+Framer+Motion.;Master+MIASHS+%E2%80%93+Technologie+%26+Handicap+%40+Paris+8." alt="Animated intro" style="margin: 20px 0;"/>
-
-  <br/>
-
-  <!-- Badges avec stats interactives -->
-  <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
-    <a href="https://github.com/itsimed"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/itsimed?label=Followers&style=for-the-badge&logo=github&color=59d102&labelColor=1a1a1a"/></a>
-    <a href="https://github.com/itsimed?tab=repositories"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/itsimed?label=Stars&style=for-the-badge&logo=github&color=f3f520&labelColor=1a1a1a"/></a>
-    <a href="https://komarev.com/ghpvc/?username=itsimed"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=itsimed&label=Profile+Views&style=for-the-badge&color=9333ea&labelColor=1a1a1a"/></a>
-  </div>
-
-  <br/>
-
-  <!-- Liens boutons stylisés -->
-  <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin: 25px 0;">
-    <a href="https://imedbelouettar.me" style="padding: 10px 20px; background: linear-gradient(135deg, #59d102, #f3f520); color: #000; border-radius: 25px; text-decoration: none; font-weight: 600; transition: all 0.3s ease; display: inline-block;">🌐 Portfolio</a>
-    <a href="https://github.com/itsimed" style="padding: 10px 20px; background: #333; color: #fff; border: 2px solid #59d102; border-radius: 25px; text-decoration: none; font-weight: 600; transition: all 0.3s ease; display: inline-block;">💻 GitHub</a>
-    <a href="https://www.linkedin.com/in/ie-belouettar/" style="padding: 10px 20px; background: #0a66c2; color: #fff; border-radius: 25px; text-decoration: none; font-weight: 600; transition: all 0.3s ease; display: inline-block;">💼 LinkedIn</a>
-    <a href="mailto:ie.belouettar@gmail.com" style="padding: 10px 20px; background: #ea4335; color: #fff; border-radius: 25px; text-decoration: none; font-weight: 600; transition: all 0.3s ease; display: inline-block;">✉️ Email</a>
-  </div>
+  <!-- Description courte -->
+  <p style="font-size: 16px; color: #ccc; max-width: 700px; margin: 20px auto;">
+    Je conçois et développe des interfaces <strong>modernes, accessibles et inclusives</strong> avec React, Next.js et TypeScript. Passionné par l'UX recherchée, les design systems et les standards web.
+  </p>
 
 </div>
 
 ---
 
-## 🇫🇷 À propos
+## 📞 Contact
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start; margin: 30px 0;">
+<div align="center" style="margin: 25px 0;">
 
-  <div style="padding: 20px; background: linear-gradient(135deg, rgba(89, 209, 2, 0.1), rgba(243, 245, 32, 0.1)); border: 1px solid #59d102; border-radius: 12px; backdrop-filter: blur(10px);">
-    <h3>💡 Vision</h3>
-    <p>Je conçois et développe des interfaces modernes, accessibles et inclusives, centrées sur les <strong>besoins réels des utilisateurs</strong>.</p>
-    <p>Design systems, accessibilité WCAG/ARIA, et UX recherchée — pas de compromis.</p>
-  </div>
-
-  <div style="padding: 20px; background: linear-gradient(135deg, rgba(147, 51, 234, 0.1), rgba(89, 209, 2, 0.1)); border: 1px solid #9333ea; border-radius: 12px; backdrop-filter: blur(10px);">
-    <h3>🎓 Formation</h3>
-    <p><strong>Master MIASHS</strong> – Technologie & Handicap (Université Paris 8).</p>
-    <p>Spécialisation: accessibilité numérique, UX inclusive, design systems.</p>
-  </div>
+| | | |
+|:-:|:-:|:-:|
+| **🌐 Portfolio**<br/>[imedbelouettar.me](https://imedbelouettar.me) | **✉️ Email**<br/>[ie.belouettar@gmail.com](mailto:ie.belouettar@gmail.com) | **💼 LinkedIn**<br/>[ie-belouettar](https://www.linkedin.com/in/ie-belouettar/) |
+| **💻 GitHub**<br/>[@itsimed](https://github.com/itsimed) | **📱 Telegram**<br/>[@itsimedd](https://t.me/itsimedd) | **📄 CV**<br/>[Voir mon profil](https://imedbelouettar.me) |
 
 </div>
 
 ---
+
+## 🛠️ Compétences & Stack
 
 ## 🛠️ Compétences & Stack
 
@@ -125,18 +103,7 @@
 
 ---
 
----
 
-## 📫 Me contacter
-
-Toujours ouvert aux opportunités & collaborations 🚀
-
-| | | |
-|:-:|:-:|:-:|
-| **🌐 Portfolio**<br/>[imedbelouettar.me](https://imedbelouettar.me) | **✉️ Email**<br/>[ie.belouettar@gmail.com](mailto:ie.belouettar@gmail.com) | **💼 LinkedIn**<br/>[ie-belouettar](https://www.linkedin.com/in/ie-belouettar/) |
-| **💻 GitHub**<br/>[@itsimed](https://github.com/itsimed) | **📱 Telegram**<br/>[@itsimedd](https://t.me/itsimedd) | **📄 CV**<br/>[Voir mon profil](https://imedbelouettar.me) |
-
----
 
 ## 🌟 Infos bonus
 
