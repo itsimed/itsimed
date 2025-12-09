@@ -125,77 +125,16 @@
 
 ---
 
+---
+
 ## 📫 Me contacter
 
-<div align="center" style="margin: 35px 0;">
+Toujours ouvert aux opportunités & collaborations 🚀
 
-  <h3 style="color: #59d102; margin-bottom: 25px;">Toujours ouvert aux opportunités & collaborations 🚀</h3>
-
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 900px; margin: 0 auto;">
-    
-    <!-- Portfolio Card -->
-    <a href="https://imedbelouettar.me" style="text-decoration: none;">
-      <div style="padding: 20px; background: linear-gradient(135deg, rgba(89, 209, 2, 0.12), rgba(243, 245, 32, 0.08)); border: 2px solid #59d102; border-radius: 12px; transition: all 0.3s ease; cursor: pointer; text-align: center;">
-        <div style="font-size: 40px; margin-bottom: 12px;">🌐</div>
-        <h4 style="color: #59d102; margin: 0 0 8px 0; font-size: 16px;">Portfolio</h4>
-        <p style="color: #aaa; margin: 0; font-size: 12px;">imedbelouettar.me</p>
-        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #59d102; color: #59d102; font-size: 11px; font-weight: 600;">Visiter →</div>
-      </div>
-    </a>
-
-    <!-- Email Card -->
-    <a href="mailto:ie.belouettar@gmail.com" style="text-decoration: none;">
-      <div style="padding: 20px; background: linear-gradient(135deg, rgba(234, 67, 53, 0.12), rgba(243, 245, 32, 0.08)); border: 2px solid #ea4335; border-radius: 12px; transition: all 0.3s ease; cursor: pointer; text-align: center;">
-        <div style="font-size: 40px; margin-bottom: 12px;">✉️</div>
-        <h4 style="color: #ea4335; margin: 0 0 8px 0; font-size: 16px;">Email</h4>
-        <p style="color: #aaa; margin: 0; font-size: 12px;">ie.belouettar@gmail.com</p>
-        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #ea4335; color: #ea4335; font-size: 11px; font-weight: 600;">Envoyer un message →</div>
-      </div>
-    </a>
-
-    <!-- LinkedIn Card -->
-    <a href="https://www.linkedin.com/in/ie-belouettar/" style="text-decoration: none;">
-      <div style="padding: 20px; background: linear-gradient(135deg, rgba(10, 102, 194, 0.12), rgba(147, 51, 234, 0.08)); border: 2px solid #0a66c2; border-radius: 12px; transition: all 0.3s ease; cursor: pointer; text-align: center;">
-        <div style="font-size: 40px; margin-bottom: 12px;">💼</div>
-        <h4 style="color: #0a66c2; margin: 0 0 8px 0; font-size: 16px;">LinkedIn</h4>
-        <p style="color: #aaa; margin: 0; font-size: 12px;">ie-belouettar</p>
-        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #0a66c2; color: #0a66c2; font-size: 11px; font-weight: 600;">Connecter →</div>
-      </div>
-    </a>
-
-    <!-- GitHub Card -->
-    <a href="https://github.com/itsimed" style="text-decoration: none;">
-      <div style="padding: 20px; background: linear-gradient(135deg, rgba(147, 51, 234, 0.12), rgba(89, 209, 2, 0.08)); border: 2px solid #9333ea; border-radius: 12px; transition: all 0.3s ease; cursor: pointer; text-align: center;">
-        <div style="font-size: 40px; margin-bottom: 12px;">💻</div>
-        <h4 style="color: #9333ea; margin: 0 0 8px 0; font-size: 16px;">GitHub</h4>
-        <p style="color: #aaa; margin: 0; font-size: 12px;">@itsimed</p>
-        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #9333ea; color: #9333ea; font-size: 11px; font-weight: 600;">Voir le code →</div>
-      </div>
-    </a>
-
-    <!-- Telegram Card -->
-    <a href="https://t.me/itsimedd" style="text-decoration: none;">
-      <div style="padding: 20px; background: linear-gradient(135deg, rgba(0, 136, 204, 0.12), rgba(243, 245, 32, 0.08)); border: 2px solid #0088cc; border-radius: 12px; transition: all 0.3s ease; cursor: pointer; text-align: center;">
-        <div style="font-size: 40px; margin-bottom: 12px;">📱</div>
-        <h4 style="color: #0088cc; margin: 0 0 8px 0; font-size: 16px;">Telegram</h4>
-        <p style="color: #aaa; margin: 0; font-size: 12px;">@itsimedd</p>
-        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #0088cc; color: #0088cc; font-size: 11px; font-weight: 600;">Envoyer un DM →</div>
-      </div>
-    </a>
-
-    <!-- CV Card -->
-    <a href="https://imedbelouettar.me" style="text-decoration: none;">
-      <div style="padding: 20px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.12), rgba(147, 51, 234, 0.08)); border: 2px solid #3b82f6; border-radius: 12px; transition: all 0.3s ease; cursor: pointer; text-align: center;">
-        <div style="font-size: 40px; margin-bottom: 12px;">📄</div>
-        <h4 style="color: #3b82f6; margin: 0 0 8px 0; font-size: 16px;">CV/Resume</h4>
-        <p style="color: #aaa; margin: 0; font-size: 12px;">Voir mon profil</p>
-        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #3b82f6; color: #3b82f6; font-size: 11px; font-weight: 600;">Télécharger →</div>
-      </div>
-    </a>
-
-  </div>
-
-</div>
+| | | |
+|:-:|:-:|:-:|
+| **🌐 Portfolio**<br/>[imedbelouettar.me](https://imedbelouettar.me) | **✉️ Email**<br/>[ie.belouettar@gmail.com](mailto:ie.belouettar@gmail.com) | **💼 LinkedIn**<br/>[ie-belouettar](https://www.linkedin.com/in/ie-belouettar/) |
+| **💻 GitHub**<br/>[@itsimed](https://github.com/itsimed) | **📱 Telegram**<br/>[@itsimedd](https://t.me/itsimedd) | **📄 CV**<br/>[Voir mon profil](https://imedbelouettar.me) |
 
 ---
 
