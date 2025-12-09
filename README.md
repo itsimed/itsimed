@@ -52,7 +52,6 @@
 
   <!-- Mobile & Backend Section -->
   <div style="margin: 25px 0; padding: 30px; background: linear-gradient(135deg, rgba(243, 245, 32, 0.1), rgba(147, 51, 234, 0.08)); border: 2px solid #f3f520; border-radius: 16px; box-shadow: 0 8px 16px rgba(243, 245, 32, 0.15);">
-    <h3 style="color: #f3f520; margin-top: 0; font-size: 20px;">📱 Mobile & Backend</h3>
     <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
       <img alt="React Native" src="https://skillicons.dev/icons?i=react&theme=dark" height="50"/>
       <img alt="Expo" src="https://skillicons.dev/icons?i=firebase&theme=dark" height="50"/>
@@ -64,7 +63,6 @@
 
   <!-- Data & DevOps Section -->
   <div style="margin: 25px 0; padding: 30px; background: linear-gradient(135deg, rgba(147, 51, 234, 0.1), rgba(89, 209, 2, 0.08)); border: 2px solid #9333ea; border-radius: 16px; box-shadow: 0 8px 16px rgba(147, 51, 234, 0.15);">
-    <h3 style="color: #9333ea; margin-top: 0; font-size: 20px;">🔧 Data & DevOps</h3>
     <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
       <img alt="Pandas" src="https://skillicons.dev/icons?i=pandas&theme=dark" height="50"/>
       <img alt="NumPy" src="https://skillicons.dev/icons?i=numpy&theme=dark" height="50"/>
