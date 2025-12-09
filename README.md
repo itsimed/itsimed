@@ -29,59 +29,30 @@ Toujours ouvert aux opportunités & collaborations 🚀
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <a href="https://imedbelouettar.me" style="text-decoration: none;">
-        <div style="padding: 20px; background: linear-gradient(135deg, #59d102, #f3f520); border-radius: 12px; margin: 5px;">
-          <h3 style="margin: 10px 0 5px 0; color: #000;">🌐</h3>
-          <strong style="color: #000; font-size: 14px;">Portfolio</strong><br>
-          <span style="color: #333; font-size: 12px;">Voir mes projets</span>
+    <td width="33%" align="center" style="padding: 10px;">
+      <a href="https://imedbelouettar.me" style="text-decoration: none; display: block;">
+        <div style="padding: 30px 20px; background: linear-gradient(135deg, #59d102 0%, #f3f520 100%); border-radius: 16px; box-shadow: 0 8px 16px rgba(89, 209, 2, 0.2); transition: all 0.3s ease;">
+          <h3 style="margin: 0 0 10px 0; color: #000; font-size: 40px;">🌐</h3>
+          <strong style="color: #000; font-size: 16px; display: block;">Portfolio</strong><br>
+          <span style="color: #333; font-size: 13px; display: block; margin-top: 5px;">Voir mes projets</span>
         </div>
       </a>
     </td>
-    <td width="33%" align="center">
-      <a href="mailto:ie.belouettar@gmail.com" style="text-decoration: none;">
-        <div style="padding: 20px; background: linear-gradient(135deg, #f3f520, #9333ea); border-radius: 12px; margin: 5px;">
-          <h3 style="margin: 10px 0 5px 0; color: #fff;">✉️</h3>
-          <strong style="color: #fff; font-size: 14px;">Email</strong><br>
-          <span style="color: #f0f0f0; font-size: 12px;">Contactez-moi</span>
+    <td width="33%" align="center" style="padding: 10px;">
+      <a href="mailto:ie.belouettar@gmail.com" style="text-decoration: none; display: block;">
+        <div style="padding: 30px 20px; background: linear-gradient(135deg, #f3f520 0%, #9333ea 100%); border-radius: 16px; box-shadow: 0 8px 16px rgba(243, 245, 32, 0.2); transition: all 0.3s ease;">
+          <h3 style="margin: 0 0 10px 0; color: #fff; font-size: 40px;">✉️</h3>
+          <strong style="color: #fff; font-size: 16px; display: block;">Email</strong><br>
+          <span style="color: #f0f0f0; font-size: 13px; display: block; margin-top: 5px;">Contactez-moi</span>
         </div>
       </a>
     </td>
-    <td width="33%" align="center">
-      <a href="https://www.linkedin.com/in/ie-belouettar/" style="text-decoration: none;">
-        <div style="padding: 20px; background: linear-gradient(135deg, #9333ea, #59d102); border-radius: 12px; margin: 5px;">
-          <h3 style="margin: 10px 0 5px 0; color: #fff;">💼</h3>
-          <strong style="color: #fff; font-size: 14px;">LinkedIn</strong><br>
-          <span style="color: #f0f0f0; font-size: 12px;">Connectez-vous</span>
-        </div>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/itsimed" style="text-decoration: none;">
-        <div style="padding: 20px; background: linear-gradient(135deg, #59d102, #f3f520); border-radius: 12px; margin: 5px;">
-          <h3 style="margin: 10px 0 5px 0; color: #000;">💻</h3>
-          <strong style="color: #000; font-size: 14px;">GitHub</strong><br>
-          <span style="color: #333; font-size: 12px;">Voir le code</span>
-        </div>
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://t.me/itsimedd" style="text-decoration: none;">
-        <div style="padding: 20px; background: linear-gradient(135deg, #f3f520, #9333ea); border-radius: 12px; margin: 5px;">
-          <h3 style="margin: 10px 0 5px 0; color: #fff;">📱</h3>
-          <strong style="color: #fff; font-size: 14px;">Telegram</strong><br>
-          <span style="color: #f0f0f0; font-size: 12px;">Échangez</span>
-        </div>
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://imedbelouettar.me" style="text-decoration: none;">
-        <div style="padding: 20px; background: linear-gradient(135deg, #9333ea, #59d102); border-radius: 12px; margin: 5px;">
-          <h3 style="margin: 10px 0 5px 0; color: #fff;">📄</h3>
-          <strong style="color: #fff; font-size: 14px;">CV</strong><br>
-          <span style="color: #f0f0f0; font-size: 12px;">Mon profil</span>
+    <td width="33%" align="center" style="padding: 10px;">
+      <a href="https://www.linkedin.com/in/ie-belouettar/" style="text-decoration: none; display: block;">
+        <div style="padding: 30px 20px; background: linear-gradient(135deg, #9333ea 0%, #59d102 100%); border-radius: 16px; box-shadow: 0 8px 16px rgba(147, 51, 234, 0.2); transition: all 0.3s ease;">
+          <h3 style="margin: 0 0 10px 0; color: #fff; font-size: 40px;">💼</h3>
+          <strong style="color: #fff; font-size: 16px; display: block;">LinkedIn</strong><br>
+          <span style="color: #f0f0f0; font-size: 13px; display: block; margin-top: 5px;">Connectez-vous</span>
         </div>
       </a>
     </td>
