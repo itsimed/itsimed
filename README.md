@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Compétences & Stack
+## Compétences & Stack
 
 <div align="center" style="margin: 30px 0;">
 
@@ -79,7 +79,6 @@
 
 ---
 
-## 🐍 Contribution Snake
 
 <div align="center" style="margin: 30px 0;">
 
@@ -97,14 +96,14 @@
 
 
 
-## 🌟 Infos bonus
+## Infos bonus
 
 <div style="padding: 20px; background: linear-gradient(135deg, rgba(243, 245, 32, 0.05), rgba(147, 51, 234, 0.05)); border-radius: 8px; margin: 20px 0; text-align: center;">
 
   <p style="margin: 0; color: #aaa; font-size: 14px;">
-    🚀 <strong>Toujours en apprentissage</strong> • Curieux de nouvelles techs, Web Standards, et Design Patterns.<br/>
-    ♿ <strong>Passion pour l'accessibilité</strong> • Chaque pixel compte, chaque utilisateur mérite la meilleure expérience.<br/>
-    🎨 <strong>Design + Code = ❤️</strong> • Trouver l'équilibre entre beauté et fonctionnalité.
+    <strong>Toujours en apprentissage</strong> • Curieux de nouvelles techs, Web Standards, et Design Patterns.<br/>
+    <strong>Passion pour l'accessibilité</strong> • Chaque pixel compte, chaque utilisateur mérite la meilleure expérience.<br/>
+    <strong>Design + Code = me </strong> • Trouver l'équilibre entre beauté et fonctionnalité.
   </p>
 
 </div>
@@ -115,17 +114,4 @@
 
 </div>
 
-<!--
-  🚀 FUTURISTIC PROFILE README
-  Optimisé pour GitHub, accessible, et conçu avec amour.
-  
-  Variables de personnalisation:
-  - Couleurs primaires: #59d102 (vert), #f3f520 (jaune), #9333ea (pourpre)
-  - Thème: Dark-first avec support auto light/dark
-  - Stats: Github-readme-stats + activité en temps réel
-  - Animations: Typing SVG, snake contributions, floating cards
-  
-  Pour le toggle thème:
-  Ajoute un workflow .github/workflows/theme-toggle.yml si tu veux un vrai bouton thème.
-  Pour maintenant, c'est un placeholder CSS-in-HTML.
--->
+
