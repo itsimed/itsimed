@@ -25,9 +25,9 @@
 
 <div align="center" style="margin: 30px 0;">
 
-<a href="https://imedbelouettar.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-59d102?style=for-the-badge&logo=firefox&logoColor=fff&logoWidth=30" height="60"/></a>
-<a href="mailto:ie.belouettar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-f3f520?style=for-the-badge&logo=gmail&logoColor=000&logoWidth=30" height="60"/></a>
-<a href="https://www.linkedin.com/in/ie-belouettar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-9333ea?style=for-the-badge&logo=linkedin&logoColor=fff&logoWidth=30" height="60"/></a>
+<a href="https://imedbelouettar.me"><img alt="Portfolio" src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60"/></a>
+<a href="mailto:ie.belouettar@gmail.com"><img alt="Email" src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60"/></a>
+<a href="https://www.linkedin.com/in/ie-belouettar/"><img alt="LinkedIn" src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60"/></a>
 
 </div>
 
