@@ -20,29 +20,25 @@
 
 
 
-<div align="center" style="margin: 50px 0; width: 100%;">
+<div align="center" style="margin: 50px 0;">
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 150px; width: 100%;">
+<span style="display: inline-block; margin: 0 75px; text-align: center;">
+  <a href="https://imedbelouettar.me"><img alt="Portfolio" src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60"/></a>
+  <div style="height: 40px;"></div>
+  <span style="font-weight: 600; color: #59d102; font-size: 16px; display: block;">Portfolio</span>
+</span>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://imedbelouettar.me"><img alt="Portfolio" src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60"/></a>
-    <div style="height: 40px;"></div>
-    <span style="font-weight: 600; color: #59d102; font-size: 16px;">Portfolio</span>
-  </div>
+<span style="display: inline-block; margin: 0 75px; text-align: center;">
+  <a href="mailto:ie.belouettar@gmail.com"><img alt="Email" src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60"/></a>
+  <div style="height: 40px;"></div>
+  <span style="font-weight: 600; color: #f3f520; font-size: 16px; display: block;">Email</span>
+</span>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="mailto:ie.belouettar@gmail.com"><img alt="Email" src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60"/></a>
-    <div style="height: 40px;"></div>
-    <span style="font-weight: 600; color: #f3f520; font-size: 16px;">Email</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://www.linkedin.com/in/ie-belouettar/"><img alt="LinkedIn" src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60"/></a>
-    <div style="height: 40px;"></div>
-    <span style="font-weight: 600; color: #9333ea; font-size: 16px;">LinkedIn</span>
-  </div>
-
-</div>
+<span style="display: inline-block; margin: 0 75px; text-align: center;">
+  <a href="https://www.linkedin.com/in/ie-belouettar/"><img alt="LinkedIn" src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60"/></a>
+  <div style="height: 40px;"></div>
+  <span style="font-weight: 600; color: #9333ea; font-size: 16px; display: block;">LinkedIn</span>
+</span>
 
 </div>
 
