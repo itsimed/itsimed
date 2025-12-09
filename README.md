@@ -20,25 +20,37 @@
 
 
 
-<div align="center" style="margin: 50px 0; display: flex; justify-content: center; gap: 150px; flex-wrap: nowrap;">
+<div align="center" style="margin: 50px 0;">
 
-  <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0;">
-    <a href="https://imedbelouettar.me"><img alt="Portfolio" src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60"/></a>
-    <div style="height: 40px;"></div>
-    <span style="font-weight: 600; color: #59d102; font-size: 16px;">Portfolio</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0;">
-    <a href="mailto:ie.belouettar@gmail.com"><img alt="Email" src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60"/></a>
-    <div style="height: 40px;"></div>
-    <span style="font-weight: 600; color: #f3f520; font-size: 16px;">Email</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0;">
-    <a href="https://www.linkedin.com/in/ie-belouettar/"><img alt="LinkedIn" src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60"/></a>
-    <div style="height: 40px;"></div>
-    <span style="font-weight: 600; color: #9333ea; font-size: 16px;">LinkedIn</span>
-  </div>
+<table style="margin: 0 auto; border-collapse: collapse;">
+  <tr style="height: 60px;">
+    <td style="padding: 0 100px; text-align: center; vertical-align: middle;">
+      <a href="https://imedbelouettar.me"><img alt="Portfolio" src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60"/></a>
+    </td>
+    <td style="padding: 0 100px; text-align: center; vertical-align: middle;">
+      <a href="mailto:ie.belouettar@gmail.com"><img alt="Email" src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60"/></a>
+    </td>
+    <td style="padding: 0 100px; text-align: center; vertical-align: middle;">
+      <a href="https://www.linkedin.com/in/ie-belouettar/"><img alt="LinkedIn" src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60"/></a>
+    </td>
+  </tr>
+  <tr style="height: 40px;">
+    <td style="padding: 0;"></td>
+    <td style="padding: 0;"></td>
+    <td style="padding: 0;"></td>
+  </tr>
+  <tr>
+    <td style="padding: 0 100px; text-align: center;">
+      <span style="font-weight: 600; color: #59d102; font-size: 16px;">Portfolio</span>
+    </td>
+    <td style="padding: 0 100px; text-align: center;">
+      <span style="font-weight: 600; color: #f3f520; font-size: 16px;">Email</span>
+    </td>
+    <td style="padding: 0 100px; text-align: center;">
+      <span style="font-weight: 600; color: #9333ea; font-size: 16px;">LinkedIn</span>
+    </td>
+  </tr>
+</table>
 
 </div>
 
