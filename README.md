@@ -26,7 +26,7 @@
 
 <div style="height: 40px;"></div>
 
-<span style="display: inline-block; margin: 0 80px; font-weight: 600; color: #59d102; font-size: 16px;">Portfolio</span><span style="display: inline-block; margin: 0 80px; font-weight: 600; color: #f3f520; font-size: 16px;">Email</span><span style="display: inline-block; margin: 0 80px; font-weight: 600; color: #9333ea; font-size: 16px;">LinkedIn</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; margin: 0 60px; font-weight: 600; color: #59d102; font-size: 16px;">Portfolio</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; margin: 0 60px; font-weight: 600; color: #f3f520; font-size: 16px;">Email</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="display: inline-block; margin: 0 60px; font-weight: 600; color: #9333ea; font-size: 16px;">LinkedIn</span>
 
 </div>
 
