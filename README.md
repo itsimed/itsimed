@@ -5,7 +5,7 @@
 <div align="center">
   
   <!-- Banner animé avec gradient dynamique -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:59d102,50:f3f520,100:9333ea&text=Imed%20Belouettar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontBold=true" alt="gradient banner" style="border-radius: 12px; margin-bottom: 20px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:59d102,50:f3f520,100:9333ea&text=Imed%20Belouettar&fontSize=70&fontColor=00000&animation=fadeIn&fontBold=true" alt="gradient banner" style="border-radius: 12px; margin-bottom: 20px;"/>
 
   <!-- Animated Title with rotating roles -->
   <h2>
@@ -19,7 +19,6 @@
 
 </div>
 
----
 
 
 <div align="center" style="margin: 50px 0; display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
