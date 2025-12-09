@@ -7,7 +7,26 @@
   <!-- Banner animé avec gradient dynamique -->
   <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:59d102,50:f3f520,100:9333ea&text=Imed%20Belouettar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontBold=true" alt="gradient banner" style="border-radius: 12px; margin-bottom: 20px;"/>
 
-  <h2>🚀 Front-End Developer | 🎨 UX/UI Designer | ♿ Accessibility-first</h2>
+  <style>
+    @keyframes fadeInOut {
+      0% { opacity: 0; animation-timing-function: ease-in; }
+      10% { opacity: 1; animation-timing-function: ease-out; }
+      25% { opacity: 1; }
+      35% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    
+    .role { animation: fadeInOut 9s infinite; }
+    .role:nth-child(1) { animation-delay: 0s; }
+    .role:nth-child(2) { animation-delay: 3s; }
+    .role:nth-child(3) { animation-delay: 6s; }
+  </style>
+
+  <h2 style="height: 1.5em; display: flex; align-items: center; justify-content: center;">
+    <span class="role" style="position: absolute;">Front-End Developer</span>
+    <span class="role" style="position: absolute;">UX/UI Designer</span>
+    <span class="role" style="position: absolute;">Accessibility Specialist</span>
+  </h2>
   
   <!-- Description courte -->
   <p style="font-size: 16px; color: #ccc; max-width: 700px; margin: 20px auto;">
@@ -30,8 +49,6 @@
 </div>
 
 ---
-
-## 🛠️ Compétences & Stack
 
 ## 🛠️ Compétences & Stack
 
@@ -84,8 +101,6 @@
 </div>
 
 ---
-
-## 🐍 Contribution Snake
 
 ## 🐍 Contribution Snake
 
