@@ -27,11 +27,6 @@
 | [<img src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60" alt="Portfolio"/>](https://imedbelouettar.me) | [<img src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60" alt="Email"/>](mailto:ie.belouettar@gmail.com) | [<img src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60" alt="LinkedIn"/>](https://www.linkedin.com/in/ie-belouettar/) |
 | **Portfolio** | **Email** | **LinkedIn** |
 
-{:style="border-collapse: collapse; border: none;"}
-| | | |
-|---|---|---|
-| {: style="border: none; padding: 0; margin: 0;"} | {: style="border: none; padding: 0; margin: 0;"} | {: style="border: none; padding: 0; margin: 0;"} |
-
 </div>
 
 </div>
