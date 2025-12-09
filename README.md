@@ -41,10 +41,12 @@
     <h3 style="color: #59d102; margin-top: 0; font-size: 20px;">⚡ Frontend & Design</h3>
     <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
       <img alt="React" src="https://skillicons.dev/icons?i=react&theme=dark" height="50"/>
+      <img alt="Tailwind" src="https://skillicons.dev/icons?i=vite&theme=dark" height="50"/>
       <img alt="Next.js" src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="50"/>
       <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript&theme=dark" height="50"/>
       <img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="50"/>
-      <img alt="Framer Motion" src="https://skillicons.dev/icons?i=figma&theme=dark" height="50"/>
+      <img alt="Tailwind" src="https://skillicons.dev/icons?i=html&theme=dark" height="50"/>
+      <img alt="Tailwind" src="https://skillicons.dev/icons?i=js&theme=dark" height="50"/>
       <img alt="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" height="50"/>
     </div>
   </div>
@@ -54,9 +56,10 @@
     <h3 style="color: #f3f520; margin-top: 0; font-size: 20px;">📱 Mobile & Backend</h3>
     <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
       <img alt="React Native" src="https://skillicons.dev/icons?i=react&theme=dark" height="50"/>
-      <img alt="Expo" src="https://skillicons.dev/icons?i=expo&theme=dark" height="50"/>
+      <img alt="Expo" src="https://skillicons.dev/icons?i=firebase&theme=dark" height="50"/>
       <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50"/>
       <img alt="Express" src="https://skillicons.dev/icons?i=express&theme=dark" height="50"/>
+      <img alt="Tailwind" src="https://skillicons.dev/icons?i=py&theme=dark" height="50"/>
       <img alt="Python" src="https://skillicons.dev/icons?i=python&theme=dark" height="50"/>
     </div>
   </div>
@@ -72,6 +75,7 @@
       <img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" height="50"/>
       <img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" height="50"/>
       <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="50"/>
+      <img alt="Tailwind" src="https://skillicons.dev/icons?i=linux&theme=dark" height="50"/>
     </div>
   </div>
 
