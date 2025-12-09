@@ -87,56 +87,7 @@
 
 ---
 
-## 🚀 Projets phares
-
-<div align="center">
-
-  <!-- Carte Wassalni -->
-  <a href="https://github.com/itsimed/wassalni" style="text-decoration: none; margin: 10px;">
-    <div style="border: 2px solid #59d102; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, rgba(89, 209, 2, 0.1), rgba(243, 245, 32, 0.05)); backdrop-filter: blur(10px); min-width: 300px; display: inline-block; transition: all 0.3s ease;">
-      <h4 style="color: #59d102; margin-top: 0;">📱 Wassalni</h4>
-      <p style="color: #ccc; font-size: 14px;">Application mobile React Native + TypeScript avec Firebase.</p>
-      <div style="display: flex; gap: 10px; justify-content: center;">
-        <a href="https://imgur.com/a/wassalni-app-B01sowE" style="color: #59d102; text-decoration: none; font-size: 12px;">🔗 Démo</a>
-        <a href="https://github.com/itsimed/wassalni" style="color: #59d102; text-decoration: none; font-size: 12px;">💻 Code</a>
-      </div>
-    </div>
-  </a>
-
-  <!-- Carte Divanhane -->
-  <a href="https://github.com/itsimed/divanhane" style="text-decoration: none; margin: 10px;">
-    <div style="border: 2px solid #f3f520; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, rgba(243, 245, 32, 0.1), rgba(147, 51, 234, 0.05)); backdrop-filter: blur(10px); min-width: 300px; display: inline-block; transition: all 0.3s ease;">
-      <h4 style="color: #f3f520; margin-top: 0;">🎨 Divanhane</h4>
-      <p style="color: #ccc; font-size: 14px;">Plateforme web Next.js + TailwindCSS avec design system.</p>
-      <div style="display: flex; gap: 10px; justify-content: center;">
-        <a href="https://divanhane.vercel.app" style="color: #f3f520; text-decoration: none; font-size: 12px;">🌐 Live</a>
-        <a href="https://github.com/itsimed/divanhane" style="color: #f3f520; text-decoration: none; font-size: 12px;">💻 Code</a>
-      </div>
-    </div>
-  </a>
-
-  <!-- Carte BDTech -->
-  <a href="https://github.com/itsimed/bdtech" style="text-decoration: none; margin: 10px;">
-    <div style="border: 2px solid #9333ea; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, rgba(147, 51, 234, 0.1), rgba(89, 209, 2, 0.05)); backdrop-filter: blur(10px); min-width: 300px; display: inline-block; transition: all 0.3s ease;">
-      <h4 style="color: #9333ea; margin-top: 0;">🔧 BDTech</h4>
-      <p style="color: #ccc; font-size: 14px;">Site vitrine Next.js avec responsive design premium.</p>
-      <div style="display: flex; gap: 10px; justify-content: center;">
-        <a href="https://bdtech-azure.vercel.app/" style="color: #9333ea; text-decoration: none; font-size: 12px;">🌐 Live</a>
-        <a href="https://github.com/itsimed/bdtech" style="color: #9333ea; text-decoration: none; font-size: 12px;">💻 Code</a>
-      </div>
-    </div>
-  </a>
-
-  <br/>
-
-  <!-- Voir plus -->
-  <a href="https://github.com/itsimed?tab=repositories" style="padding: 12px 30px; background: linear-gradient(135deg, #59d102, #f3f520); color: #000; border-radius: 25px; text-decoration: none; font-weight: 600; display: inline-block; margin-top: 20px; transition: all 0.3s ease;">
-    🚀 Voir tous les projets
-  </a>
-
-</div>
-
----
+## 🐍 Contribution Snake
 
 ## 🐍 Contribution Snake
 
