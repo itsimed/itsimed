@@ -1,8 +1,5 @@
 <!-- Theme Toggle Button (SVG Icons) -->
 <div align="right" style="margin-bottom: 20px;">
-  <a href="#" id="theme-toggle" style="text-decoration: none; font-size: 24px; cursor: pointer; transition: all 0.3s ease;">
-    🌙 (Cliquez pour le mode clair)
-  </a>
 </div>
 
 <div align="center">
@@ -60,27 +57,50 @@
 
 ## 🛠️ Compétences & Stack
 
-<div align="center">
+<div align="center" style="margin: 30px 0;">
 
-  <!-- Frontend -->
-  <div style="margin: 15px 0;">
-    <strong>Frontend & Design</strong>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,figma,framer" alt="Frontend skills"/>
+  <!-- Frontend Section -->
+  <div style="margin: 25px 0; padding: 25px; background: linear-gradient(135deg, rgba(89, 209, 2, 0.08), rgba(243, 245, 32, 0.05)); border: 1px solid #59d102; border-radius: 12px; backdrop-filter: blur(10px);">
+    <h3 style="color: #59d102; margin-top: 0; display: flex; align-items: center; justify-content: center; gap: 10px;">
+      <span style="font-size: 28px;">⚡</span> Frontend & Design
+    </h3>
+    <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #59d102; border-radius: 20px; font-size: 13px;">⚛️ React</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #59d102; border-radius: 20px; font-size: 13px;">▲ Next.js</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #59d102; border-radius: 20px; font-size: 13px;">TS TypeScript</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #59d102; border-radius: 20px; font-size: 13px;">🎨 Tailwind</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #59d102; border-radius: 20px; font-size: 13px;">✨ Framer Motion</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #59d102; border-radius: 20px; font-size: 13px;">🎯 Figma</span>
+    </div>
   </div>
 
-  <!-- Mobile & Backend -->
-  <div style="margin: 15px 0;">
-    <strong>Mobile & Backend</strong>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=expo,nodejs,express,python" alt="Mobile & Backend"/>
+  <!-- Mobile & Backend Section -->
+  <div style="margin: 25px 0; padding: 25px; background: linear-gradient(135deg, rgba(243, 245, 32, 0.08), rgba(147, 51, 234, 0.05)); border: 1px solid #f3f520; border-radius: 12px; backdrop-filter: blur(10px);">
+    <h3 style="color: #f3f520; margin-top: 0; display: flex; align-items: center; justify-content: center; gap: 10px;">
+      <span style="font-size: 28px;">📱</span> Mobile & Backend
+    </h3>
+    <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #f3f520; border-radius: 20px; font-size: 13px;">☎️ React Native</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #f3f520; border-radius: 20px; font-size: 13px;">🏃 Expo</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #f3f520; border-radius: 20px; font-size: 13px;">🔵 Node.js</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #f3f520; border-radius: 20px; font-size: 13px;">🚀 Express</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #f3f520; border-radius: 20px; font-size: 13px;">🐍 Python</span>
+    </div>
   </div>
 
-  <!-- Data & Tools -->
-  <div style="margin: 15px 0;">
-    <strong>Data & DevOps</strong>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=python,git,github,docker,postgresql" alt="Data & DevOps"/>
+  <!-- Data & DevOps Section -->
+  <div style="margin: 25px 0; padding: 25px; background: linear-gradient(135deg, rgba(147, 51, 234, 0.08), rgba(89, 209, 2, 0.05)); border: 1px solid #9333ea; border-radius: 12px; backdrop-filter: blur(10px);">
+    <h3 style="color: #9333ea; margin-top: 0; display: flex; align-items: center; justify-content: center; gap: 10px;">
+      <span style="font-size: 28px;">🔧</span> Data & DevOps
+    </h3>
+    <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #9333ea; border-radius: 20px; font-size: 13px;">📊 Pandas</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #9333ea; border-radius: 20px; font-size: 13px;">🔢 NumPy</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #9333ea; border-radius: 20px; font-size: 13px;">🤖 scikit-learn</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #9333ea; border-radius: 20px; font-size: 13px;">🐙 Git & GitHub</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #9333ea; border-radius: 20px; font-size: 13px;">🐳 Docker</span>
+      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #9333ea; border-radius: 20px; font-size: 13px;">🗄️ PostgreSQL</span>
+    </div>
   </div>
 
 </div>
@@ -107,32 +127,72 @@
 
 ## 📫 Me contacter
 
-<div align="center" style="margin: 30px 0;">
+<div align="center" style="margin: 35px 0;">
 
-  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-    <a href="https://imedbelouettar.me" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; gap: 8px; padding: 15px; background: linear-gradient(135deg, rgba(89, 209, 2, 0.1), rgba(243, 245, 32, 0.1)); border: 1px solid #59d102; border-radius: 8px; min-width: 140px; transition: all 0.3s ease;">
-      <span style="font-size: 24px;">🌐</span>
-      <strong style="color: #59d102;">Portfolio</strong>
-      <span style="font-size: 12px; color: #999;">imedbelouettar.me</span>
+  <h3 style="color: #59d102; margin-bottom: 25px;">Toujours ouvert aux opportunités & collaborations 🚀</h3>
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 900px; margin: 0 auto;">
+    
+    <!-- Portfolio Card -->
+    <a href="https://imedbelouettar.me" style="text-decoration: none;">
+      <div style="padding: 20px; background: linear-gradient(135deg, rgba(89, 209, 2, 0.12), rgba(243, 245, 32, 0.08)); border: 2px solid #59d102; border-radius: 12px; transition: all 0.3s ease; cursor: pointer; text-align: center;">
+        <div style="font-size: 40px; margin-bottom: 12px;">🌐</div>
+        <h4 style="color: #59d102; margin: 0 0 8px 0; font-size: 16px;">Portfolio</h4>
+        <p style="color: #aaa; margin: 0; font-size: 12px;">imedbelouettar.me</p>
+        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #59d102; color: #59d102; font-size: 11px; font-weight: 600;">Visiter →</div>
+      </div>
     </a>
 
-    <a href="mailto:ie.belouettar@gmail.com" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; gap: 8px; padding: 15px; background: linear-gradient(135deg, rgba(234, 67, 53, 0.1), rgba(243, 245, 32, 0.1)); border: 1px solid #ea4335; border-radius: 8px; min-width: 140px; transition: all 0.3s ease;">
-      <span style="font-size: 24px;">✉️</span>
-      <strong style="color: #ea4335;">Email</strong>
-      <span style="font-size: 12px; color: #999;">ie.belouettar@gmail.com</span>
+    <!-- Email Card -->
+    <a href="mailto:ie.belouettar@gmail.com" style="text-decoration: none;">
+      <div style="padding: 20px; background: linear-gradient(135deg, rgba(234, 67, 53, 0.12), rgba(243, 245, 32, 0.08)); border: 2px solid #ea4335; border-radius: 12px; transition: all 0.3s ease; cursor: pointer; text-align: center;">
+        <div style="font-size: 40px; margin-bottom: 12px;">✉️</div>
+        <h4 style="color: #ea4335; margin: 0 0 8px 0; font-size: 16px;">Email</h4>
+        <p style="color: #aaa; margin: 0; font-size: 12px;">ie.belouettar@gmail.com</p>
+        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #ea4335; color: #ea4335; font-size: 11px; font-weight: 600;">Envoyer un message →</div>
+      </div>
     </a>
 
-    <a href="https://www.linkedin.com/in/ie-belouettar/" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; gap: 8px; padding: 15px; background: linear-gradient(135deg, rgba(10, 102, 194, 0.1), rgba(147, 51, 234, 0.1)); border: 1px solid #0a66c2; border-radius: 8px; min-width: 140px; transition: all 0.3s ease;">
-      <span style="font-size: 24px;">💼</span>
-      <strong style="color: #0a66c2;">LinkedIn</strong>
-      <span style="font-size: 12px; color: #999;">ie-belouettar</span>
+    <!-- LinkedIn Card -->
+    <a href="https://www.linkedin.com/in/ie-belouettar/" style="text-decoration: none;">
+      <div style="padding: 20px; background: linear-gradient(135deg, rgba(10, 102, 194, 0.12), rgba(147, 51, 234, 0.08)); border: 2px solid #0a66c2; border-radius: 12px; transition: all 0.3s ease; cursor: pointer; text-align: center;">
+        <div style="font-size: 40px; margin-bottom: 12px;">💼</div>
+        <h4 style="color: #0a66c2; margin: 0 0 8px 0; font-size: 16px;">LinkedIn</h4>
+        <p style="color: #aaa; margin: 0; font-size: 12px;">ie-belouettar</p>
+        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #0a66c2; color: #0a66c2; font-size: 11px; font-weight: 600;">Connecter →</div>
+      </div>
     </a>
 
-    <a href="https://github.com/itsimed" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; gap: 8px; padding: 15px; background: linear-gradient(135deg, rgba(147, 51, 234, 0.1), rgba(89, 209, 2, 0.1)); border: 1px solid #9333ea; border-radius: 8px; min-width: 140px; transition: all 0.3s ease;">
-      <span style="font-size: 24px;">💻</span>
-      <strong style="color: #9333ea;">GitHub</strong>
-      <span style="font-size: 12px; color: #999;">itsimed</span>
+    <!-- GitHub Card -->
+    <a href="https://github.com/itsimed" style="text-decoration: none;">
+      <div style="padding: 20px; background: linear-gradient(135deg, rgba(147, 51, 234, 0.12), rgba(89, 209, 2, 0.08)); border: 2px solid #9333ea; border-radius: 12px; transition: all 0.3s ease; cursor: pointer; text-align: center;">
+        <div style="font-size: 40px; margin-bottom: 12px;">💻</div>
+        <h4 style="color: #9333ea; margin: 0 0 8px 0; font-size: 16px;">GitHub</h4>
+        <p style="color: #aaa; margin: 0; font-size: 12px;">@itsimed</p>
+        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #9333ea; color: #9333ea; font-size: 11px; font-weight: 600;">Voir le code →</div>
+      </div>
     </a>
+
+    <!-- Telegram Card -->
+    <a href="https://t.me/itsimedd" style="text-decoration: none;">
+      <div style="padding: 20px; background: linear-gradient(135deg, rgba(0, 136, 204, 0.12), rgba(243, 245, 32, 0.08)); border: 2px solid #0088cc; border-radius: 12px; transition: all 0.3s ease; cursor: pointer; text-align: center;">
+        <div style="font-size: 40px; margin-bottom: 12px;">📱</div>
+        <h4 style="color: #0088cc; margin: 0 0 8px 0; font-size: 16px;">Telegram</h4>
+        <p style="color: #aaa; margin: 0; font-size: 12px;">@itsimedd</p>
+        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #0088cc; color: #0088cc; font-size: 11px; font-weight: 600;">Envoyer un DM →</div>
+      </div>
+    </a>
+
+    <!-- CV Card -->
+    <a href="https://imedbelouettar.me" style="text-decoration: none;">
+      <div style="padding: 20px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.12), rgba(147, 51, 234, 0.08)); border: 2px solid #3b82f6; border-radius: 12px; transition: all 0.3s ease; cursor: pointer; text-align: center;">
+        <div style="font-size: 40px; margin-bottom: 12px;">📄</div>
+        <h4 style="color: #3b82f6; margin: 0 0 8px 0; font-size: 16px;">CV/Resume</h4>
+        <p style="color: #aaa; margin: 0; font-size: 12px;">Voir mon profil</p>
+        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #3b82f6; color: #3b82f6; font-size: 11px; font-weight: 600;">Télécharger →</div>
+      </div>
+    </a>
+
   </div>
 
 </div>
