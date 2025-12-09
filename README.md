@@ -21,7 +21,7 @@
 
 
 
-<div align="center" style="margin: 50px 0; display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+<div align="center" style="margin: 50px 50px; display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
 
 <a href="https://imedbelouettar.me"><img alt="Portfolio" src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60"/></a>
 <a href="mailto:ie.belouettar@gmail.com"><img alt="Email" src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60"/></a>
