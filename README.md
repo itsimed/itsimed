@@ -24,7 +24,7 @@
 
 [<img src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60" alt="Portfolio"/>](https://imedbelouettar.me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60" alt="Email"/>](mailto:ie.belouettar@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60" alt="LinkedIn"/>](https://www.linkedin.com/in/ie-belouettar/)
 
-<br/><br/>
+<br/>
 
 **Portfolio**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**LinkedIn**
 
