@@ -60,7 +60,6 @@
       <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50"/>
       <img alt="Express" src="https://skillicons.dev/icons?i=express&theme=dark" height="50"/>
       <img alt="Tailwind" src="https://skillicons.dev/icons?i=py&theme=dark" height="50"/>
-      <img alt="Python" src="https://skillicons.dev/icons?i=python&theme=dark" height="50"/>
     </div>
   </div>
 
