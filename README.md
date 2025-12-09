@@ -22,26 +22,11 @@
 
 <div align="center" style="margin: 50px 0;">
 
-<div style="opacity: 0; position: absolute;">
+[<img src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60" alt="Portfolio"/>](https://imedbelouettar.me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60" alt="Email"/>](mailto:ie.belouettar@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60" alt="LinkedIn"/>](https://www.linkedin.com/in/ie-belouettar/)
 
-| | | |
-|:-:|:-:|:-:|
-| [<img src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60" alt="Portfolio"/>](https://imedbelouettar.me) | [<img src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60" alt="Email"/>](mailto:ie.belouettar@gmail.com) | [<img src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60" alt="LinkedIn"/>](https://www.linkedin.com/in/ie-belouettar/) |
-| **Portfolio** | **Email** | **LinkedIn** |
+<br/><br/>
 
-</div>
-
-<div style="position: relative; margin-bottom: 100px;">
-
-[<img src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60" alt="Portfolio"/>](https://imedbelouettar.me)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60" alt="Email"/>](mailto:ie.belouettar@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60" alt="LinkedIn"/>](https://www.linkedin.com/in/ie-belouettar/)
-
-<div style="margin-top: 30px;">**Portfolio**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**LinkedIn**</div>
-
-</div>
+**Portfolio**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**LinkedIn**
 
 </div>
 
