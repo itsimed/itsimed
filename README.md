@@ -23,14 +23,70 @@
 
 ## 📞 Contact
 
+<div align="center">
+
 Toujours ouvert aux opportunités & collaborations 🚀
 
-<div align="center" style="margin: 30px 0;">
-
-| | | |
-|:-:|:-:|:-:|
-| [🌐 **Portfolio**](https://imedbelouettar.me)<br/>_Voir mes projets_ | [✉️ **Email**](mailto:ie.belouettar@gmail.com)<br/>_Contactez-moi_ | [💼 **LinkedIn**](https://www.linkedin.com/in/ie-belouettar/)<br/>_Connectez-vous_ |
-| [💻 **GitHub**](https://github.com/itsimed)<br/>_Voir le code_ | [📱 **Telegram**](https://t.me/itsimedd)<br/>_Échangez_ | [📄 **CV**](https://imedbelouettar.me)<br/>_Mon profil_ |
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://imedbelouettar.me" style="text-decoration: none;">
+        <div style="padding: 20px; background: linear-gradient(135deg, #59d102, #f3f520); border-radius: 12px; margin: 5px;">
+          <h3 style="margin: 10px 0 5px 0; color: #000;">🌐</h3>
+          <strong style="color: #000; font-size: 14px;">Portfolio</strong><br>
+          <span style="color: #333; font-size: 12px;">Voir mes projets</span>
+        </div>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="mailto:ie.belouettar@gmail.com" style="text-decoration: none;">
+        <div style="padding: 20px; background: linear-gradient(135deg, #f3f520, #9333ea); border-radius: 12px; margin: 5px;">
+          <h3 style="margin: 10px 0 5px 0; color: #fff;">✉️</h3>
+          <strong style="color: #fff; font-size: 14px;">Email</strong><br>
+          <span style="color: #f0f0f0; font-size: 12px;">Contactez-moi</span>
+        </div>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://www.linkedin.com/in/ie-belouettar/" style="text-decoration: none;">
+        <div style="padding: 20px; background: linear-gradient(135deg, #9333ea, #59d102); border-radius: 12px; margin: 5px;">
+          <h3 style="margin: 10px 0 5px 0; color: #fff;">💼</h3>
+          <strong style="color: #fff; font-size: 14px;">LinkedIn</strong><br>
+          <span style="color: #f0f0f0; font-size: 12px;">Connectez-vous</span>
+        </div>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/itsimed" style="text-decoration: none;">
+        <div style="padding: 20px; background: linear-gradient(135deg, #59d102, #f3f520); border-radius: 12px; margin: 5px;">
+          <h3 style="margin: 10px 0 5px 0; color: #000;">💻</h3>
+          <strong style="color: #000; font-size: 14px;">GitHub</strong><br>
+          <span style="color: #333; font-size: 12px;">Voir le code</span>
+        </div>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://t.me/itsimedd" style="text-decoration: none;">
+        <div style="padding: 20px; background: linear-gradient(135deg, #f3f520, #9333ea); border-radius: 12px; margin: 5px;">
+          <h3 style="margin: 10px 0 5px 0; color: #fff;">📱</h3>
+          <strong style="color: #fff; font-size: 14px;">Telegram</strong><br>
+          <span style="color: #f0f0f0; font-size: 12px;">Échangez</span>
+        </div>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://imedbelouettar.me" style="text-decoration: none;">
+        <div style="padding: 20px; background: linear-gradient(135deg, #9333ea, #59d102); border-radius: 12px; margin: 5px;">
+          <h3 style="margin: 10px 0 5px 0; color: #fff;">📄</h3>
+          <strong style="color: #fff; font-size: 14px;">CV</strong><br>
+          <span style="color: #f0f0f0; font-size: 12px;">Mon profil</span>
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
