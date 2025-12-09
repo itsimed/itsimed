@@ -20,25 +20,13 @@
 
 
 
-<div align="center" style="margin: 50px 0;">
+<div align="center" style="margin: 50px 0; white-space: nowrap;">
 
-<span style="display: inline-block; margin: 0 75px; text-align: center;">
-  <a href="https://imedbelouettar.me"><img alt="Portfolio" src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60"/></a>
-  <div style="height: 40px;"></div>
-  <span style="font-weight: 600; color: #59d102; font-size: 16px; display: block;">Portfolio</span>
-</span>
+[<img src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60" alt="Portfolio" style="margin: 0 80px;"/>](https://imedbelouettar.me)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60" alt="Email" style="margin: 0 80px;"/>](mailto:ie.belouettar@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60" alt="LinkedIn" style="margin: 0 80px;"/>](https://www.linkedin.com/in/ie-belouettar/)
 
-<span style="display: inline-block; margin: 0 75px; text-align: center;">
-  <a href="mailto:ie.belouettar@gmail.com"><img alt="Email" src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60"/></a>
-  <div style="height: 40px;"></div>
-  <span style="font-weight: 600; color: #f3f520; font-size: 16px; display: block;">Email</span>
-</span>
+<div style="height: 40px;"></div>
 
-<span style="display: inline-block; margin: 0 75px; text-align: center;">
-  <a href="https://www.linkedin.com/in/ie-belouettar/"><img alt="LinkedIn" src="https://storage.googleapis.com/publicasse/my_portfolio/linkeidn.webp" height="60"/></a>
-  <div style="height: 40px;"></div>
-  <span style="font-weight: 600; color: #9333ea; font-size: 16px; display: block;">LinkedIn</span>
-</span>
+<span style="display: inline-block; margin: 0 80px; font-weight: 600; color: #59d102; font-size: 16px;">Portfolio</span><span style="display: inline-block; margin: 0 80px; font-weight: 600; color: #f3f520; font-size: 16px;">Email</span><span style="display: inline-block; margin: 0 80px; font-weight: 600; color: #9333ea; font-size: 16px;">LinkedIn</span>
 
 </div>
 
