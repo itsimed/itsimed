@@ -19,7 +19,10 @@
 
 </div>
 
-<div align="center" style="margin: 50px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+---
+
+
+<div align="center" style="margin: 50px 0; display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
 
 <a href="https://imedbelouettar.me"><img alt="Portfolio" src="https://storage.googleapis.com/publicasse/my_portfolio/portfolio.webp" height="60"/></a>
 <a href="mailto:ie.belouettar@gmail.com"><img alt="Email" src="https://storage.googleapis.com/publicasse/my_portfolio/mail.webp" height="60"/></a>
@@ -34,46 +37,41 @@
 <div align="center" style="margin: 30px 0;">
 
   <!-- Frontend Section -->
-  <div style="margin: 25px 0; padding: 25px; background: linear-gradient(135deg, rgba(89, 209, 2, 0.08), rgba(243, 245, 32, 0.05)); border: 1px solid #59d102; border-radius: 12px; backdrop-filter: blur(10px);">
-    <h3 style="color: #59d102; margin-top: 0; display: flex; align-items: center; justify-content: center; gap: 10px;">
-      <span style="font-size: 28px;">⚡</span> Frontend & Design
-    </h3>
-    <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #59d102; border-radius: 20px; font-size: 13px;">⚛️ React</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #59d102; border-radius: 20px; font-size: 13px;">▲ Next.js</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #59d102; border-radius: 20px; font-size: 13px;">TS TypeScript</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #59d102; border-radius: 20px; font-size: 13px;">🎨 Tailwind</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #59d102; border-radius: 20px; font-size: 13px;">✨ Framer Motion</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #59d102; border-radius: 20px; font-size: 13px;">🎯 Figma</span>
+  <div style="margin: 25px 0; padding: 30px; background: linear-gradient(135deg, rgba(89, 209, 2, 0.1), rgba(243, 245, 32, 0.08)); border: 2px solid #59d102; border-radius: 16px; box-shadow: 0 8px 16px rgba(89, 209, 2, 0.15);">
+    <h3 style="color: #59d102; margin-top: 0; font-size: 20px;">⚡ Frontend & Design</h3>
+    <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+      <img alt="React" src="https://skillicons.dev/icons?i=react&theme=dark" height="50"/>
+      <img alt="Next.js" src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="50"/>
+      <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript&theme=dark" height="50"/>
+      <img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="50"/>
+      <img alt="Framer Motion" src="https://skillicons.dev/icons?i=figma&theme=dark" height="50"/>
+      <img alt="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" height="50"/>
     </div>
   </div>
 
   <!-- Mobile & Backend Section -->
-  <div style="margin: 25px 0; padding: 25px; background: linear-gradient(135deg, rgba(243, 245, 32, 0.08), rgba(147, 51, 234, 0.05)); border: 1px solid #f3f520; border-radius: 12px; backdrop-filter: blur(10px);">
-    <h3 style="color: #f3f520; margin-top: 0; display: flex; align-items: center; justify-content: center; gap: 10px;">
-      <span style="font-size: 28px;">📱</span> Mobile & Backend
-    </h3>
-    <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #f3f520; border-radius: 20px; font-size: 13px;">☎️ React Native</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #f3f520; border-radius: 20px; font-size: 13px;">🏃 Expo</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #f3f520; border-radius: 20px; font-size: 13px;">🔵 Node.js</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #f3f520; border-radius: 20px; font-size: 13px;">🚀 Express</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #f3f520; border-radius: 20px; font-size: 13px;">🐍 Python</span>
+  <div style="margin: 25px 0; padding: 30px; background: linear-gradient(135deg, rgba(243, 245, 32, 0.1), rgba(147, 51, 234, 0.08)); border: 2px solid #f3f520; border-radius: 16px; box-shadow: 0 8px 16px rgba(243, 245, 32, 0.15);">
+    <h3 style="color: #f3f520; margin-top: 0; font-size: 20px;">📱 Mobile & Backend</h3>
+    <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+      <img alt="React Native" src="https://skillicons.dev/icons?i=react&theme=dark" height="50"/>
+      <img alt="Expo" src="https://skillicons.dev/icons?i=expo&theme=dark" height="50"/>
+      <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50"/>
+      <img alt="Express" src="https://skillicons.dev/icons?i=express&theme=dark" height="50"/>
+      <img alt="Python" src="https://skillicons.dev/icons?i=python&theme=dark" height="50"/>
     </div>
   </div>
 
   <!-- Data & DevOps Section -->
-  <div style="margin: 25px 0; padding: 25px; background: linear-gradient(135deg, rgba(147, 51, 234, 0.08), rgba(89, 209, 2, 0.05)); border: 1px solid #9333ea; border-radius: 12px; backdrop-filter: blur(10px);">
-    <h3 style="color: #9333ea; margin-top: 0; display: flex; align-items: center; justify-content: center; gap: 10px;">
-      <span style="font-size: 28px;">🔧</span> Data & DevOps
-    </h3>
-    <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #9333ea; border-radius: 20px; font-size: 13px;">📊 Pandas</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #9333ea; border-radius: 20px; font-size: 13px;">🔢 NumPy</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #9333ea; border-radius: 20px; font-size: 13px;">🤖 scikit-learn</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #9333ea; border-radius: 20px; font-size: 13px;">🐙 Git & GitHub</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #9333ea; border-radius: 20px; font-size: 13px;">🐳 Docker</span>
-      <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: rgba(255,255,255,0.05); border: 1px solid #9333ea; border-radius: 20px; font-size: 13px;">🗄️ PostgreSQL</span>
+  <div style="margin: 25px 0; padding: 30px; background: linear-gradient(135deg, rgba(147, 51, 234, 0.1), rgba(89, 209, 2, 0.08)); border: 2px solid #9333ea; border-radius: 16px; box-shadow: 0 8px 16px rgba(147, 51, 234, 0.15);">
+    <h3 style="color: #9333ea; margin-top: 0; font-size: 20px;">🔧 Data & DevOps</h3>
+    <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
+      <img alt="Pandas" src="https://skillicons.dev/icons?i=pandas&theme=dark" height="50"/>
+      <img alt="NumPy" src="https://skillicons.dev/icons?i=numpy&theme=dark" height="50"/>
+      <img alt="scikit-learn" src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="50"/>
+      <img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" height="50"/>
+      <img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" height="50"/>
+      <img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" height="50"/>
+      <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="50"/>
     </div>
   </div>
 
