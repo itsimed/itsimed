@@ -22,10 +22,10 @@
     .role:nth-child(3) { animation-delay: 6s; }
   </style>
 
-  <h2 style="height: 1.5em; display: flex; align-items: center; justify-content: center;">
-    <span class="role" style="position: absolute;">Front-End Developer</span>
-    <span class="role" style="position: absolute;">UX/UI Designer</span>
-    <span class="role" style="position: absolute;">Accessibility Specialist</span>
+  <h2 style="height: 1.5em; display: flex; align-items: center; justify-content: center; position: relative; min-width: 300px;">
+    <span class="role" style="position: absolute; white-space: nowrap;">Front-End Developer</span>
+    <span class="role" style="position: absolute; white-space: nowrap;">UX/UI Designer</span>
+    <span class="role" style="position: absolute; white-space: nowrap;">Accessibility Specialist</span>
   </h2>
   
   <!-- Description courte -->
