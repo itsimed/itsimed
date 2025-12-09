@@ -38,7 +38,6 @@
 
   <!-- Frontend Section -->
   <div style="margin: 25px 0; padding: 30px; background: linear-gradient(135deg, rgba(89, 209, 2, 0.1), rgba(243, 245, 32, 0.08)); border: 2px solid #59d102; border-radius: 16px; box-shadow: 0 8px 16px rgba(89, 209, 2, 0.15);">
-    <h3 style="color: #59d102; margin-top: 0; font-size: 20px;">⚡ Frontend & Design</h3>
     <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
       <img alt="React" src="https://skillicons.dev/icons?i=react&theme=dark" height="50"/>
       <img alt="Tailwind" src="https://skillicons.dev/icons?i=vite&theme=dark" height="50"/>
