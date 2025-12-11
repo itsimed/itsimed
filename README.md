@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:59d102,50:f3f520,100:9333ea&text=Imed%20Belouettar&fontSize=70&fontColor=00000&animation=fadeIn&fontBold=true" alt="gradient banner" style="border-radius: 12px; margin-bottom: 20px;"/>
 
   <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=3000&center=true&vCenter=true&width=500&lines=Front-End+Developer;UX%2FUI+Designer;Accessibility+Specialist" alt="Animated title" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=3000&center=true&vCenter=true&width=500&lines=Front-End+Developer;UX%2FUI+Designer;Accessibility+Student" alt="Animated title" />
   </h2>
 
   <p style="font-size: 16px; color: #ccc; max-width: 700px; margin: 20px auto;">
