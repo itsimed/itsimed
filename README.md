@@ -3,15 +3,12 @@
 
 <div align="center">
   
-  <!-- Banner animé avec gradient dynamique -->
   <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:59d102,50:f3f520,100:9333ea&text=Imed%20Belouettar&fontSize=70&fontColor=00000&animation=fadeIn&fontBold=true" alt="gradient banner" style="border-radius: 12px; margin-bottom: 20px;"/>
 
-  <!-- Animated Title with rotating roles -->
   <h2>
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=3000&center=true&vCenter=true&width=500&lines=Front-End+Developer;UX%2FUI+Designer;Accessibility+Specialist" alt="Animated title" />
   </h2>
-  
-  <!-- Description courte -->
+
   <p style="font-size: 16px; color: #ccc; max-width: 700px; margin: 20px auto;">
     Je conçois et développe des interfaces <strong>modernes, accessibles et inclusives</strong> avec React, Next.js et TypeScript. Passionné par l'UX recherchée, les design systems et les standards web.
   </p>
@@ -38,7 +35,7 @@
 
 <div align="center" style="margin: 30px 0;">
 
-  <!-- Frontend Section -->
+
   <div style="margin: 25px 0; padding: 30px; background: linear-gradient(135deg, rgba(89, 209, 2, 0.1), rgba(243, 245, 32, 0.08)); border: 2px solid #59d102; border-radius: 16px; box-shadow: 0 8px 16px rgba(89, 209, 2, 0.15);">
     <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
       <img alt="React" src="https://skillicons.dev/icons?i=react&theme=dark" height="50"/>
@@ -52,7 +49,7 @@
     </div>
   </div>
 
-  <!-- Mobile & Backend Section -->
+
   <div style="margin: 25px 0; padding: 30px; background: linear-gradient(135deg, rgba(243, 245, 32, 0.1), rgba(147, 51, 234, 0.08)); border: 2px solid #f3f520; border-radius: 16px; box-shadow: 0 8px 16px rgba(243, 245, 32, 0.15);">
     <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
       <img alt="React Native" src="https://skillicons.dev/icons?i=react&theme=dark" height="50"/>
@@ -63,7 +60,7 @@
     </div>
   </div>
 
-  <!-- Data & DevOps Section -->
+
   <div style="margin: 25px 0; padding: 30px; background: linear-gradient(135deg, rgba(147, 51, 234, 0.1), rgba(89, 209, 2, 0.08)); border: 2px solid #9333ea; border-radius: 16px; box-shadow: 0 8px 16px rgba(147, 51, 234, 0.15);">
     <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 20px;">
       <img alt="Pandas" src="https://skillicons.dev/icons?i=pandas&theme=dark" height="50"/>
